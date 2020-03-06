@@ -1,0 +1,16 @@
+h1{
+    color: red;
+    border: 5px solid salmon
+}
+p{
+    color: red;
+    
+}
+
+.bord{
+    color: black;
+    border: 5px solid salmon;
+    background-color: grey;
+    margin-left: 100px;
+    margin-right: 100px;
+}
